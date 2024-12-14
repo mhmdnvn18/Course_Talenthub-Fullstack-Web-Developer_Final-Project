@@ -11,7 +11,7 @@ function App() {
 
   // Fungsi untuk mendapatkan data warung
   async function getData() {
-    const url = "http://localhost:3000/Warung";
+    const url = "https://jungle-nice-snowman.glitch.me/Warung";
     try {
       const response = await fetch(url);
       if (!response.ok) {
