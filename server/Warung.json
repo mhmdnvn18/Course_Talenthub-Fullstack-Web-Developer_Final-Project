@@ -1,0 +1,42 @@
+[
+  {
+    "foodName": "Nasi Goreng",
+    "price": 23.200,
+    "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/029413ba-c811-491f-865a-cba0588363b9_Go-Biz_20220401_135743.jpeg"
+  },
+  {
+    "foodName": "Ayam Goreng",
+    "price": 12.300,
+    "imageUrl": "https://www.masakapahariini.com/wp-content/uploads/2023/11/Resep-Ayam-Goreng-Lalapan.jpg"
+  },
+  {
+    "foodName": "Mie Ayam",
+    "price": 15.000,
+    "imageUrl": "https://cdn1-production-images-kly.akamaized.net/vM8lSOhUdwyTysWXZgFHPx6QR9A=/0x0:6000x3382/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3524401/original/066199400_1627521905-2021-07-28.jpg"
+  },
+  {
+    "foodName": "Mie Goreng",
+    "price": 18.000,
+    "imageUrl": "https://www.masakapahariini.com/wp-content/uploads/2023/11/Resep-Mie-Goreng-Telur-Untuk-Tanggal-Tua.jpg"
+  },
+  {
+    "foodName": "Goreng Ikan",
+    "price": 14.500,
+    "imageUrl": "https://asset.kompas.com/crops/bd2XXwaby5bNlbNReOIy4sSQWtQ=/0x0:1000x667/1200x800/data/photo/2020/04/20/5e9da17b42993.jpg"
+  },
+  {
+    "foodName": "Ikan Kukus",
+    "price": 25.000,
+    "imageUrl": "https://cdn0-production-images-kly.akamaized.net/f42E53gVjFksEuHylFERMU_CmfE=/1x49:1000x612/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4357157/original/010330700_1678759094-shutterstock_1288481146.jpg"
+  },
+  {
+    "foodName": "Sate",
+    "price": 25.800,
+    "imageUrl": "https://www.masakapahariini.com/wp-content/uploads/2024/04/Resep-Sate-Ayam-Madura.jpg"
+  },
+  {
+    "foodName": "Rendang",
+    "price": 30.000,
+    "imageUrl": "https://asset.kompas.com/crops/QsUYn6p5xK4DsivCrxa0_TXdjuk=/10x36:890x623/1200x800/data/photo/2023/03/25/641e5ef63dea4.jpg"
+  }
+]
