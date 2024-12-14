@@ -11,7 +11,7 @@ function App() {
 
   // Fungsi untuk mendapatkan data warung
   async function getData() {
-    const url = "https://actually-infrequent-dugout.glitch.me/warung";
+    const url = "https://actually-infrequent-dugout.glitch.me/Warung";
     try {
       const response = await fetch(url);
       if (!response.ok) {
